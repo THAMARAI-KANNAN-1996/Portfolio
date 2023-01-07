@@ -1,0 +1,18 @@
+.myhomebg{
+    background-image: url('https://i.ytimg.com/vi/7dkrwPrmH-Y/maxresdefault.jpg');
+    height: 90vh;
+    width: 100%;
+    background-size: cover;
+    
+}
+
+.myhomemar{
+    padding-top: 8%;
+}
+
+.mysiz{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:teal;
+    font-weight:bolder;
+    font-size: larger;
+}

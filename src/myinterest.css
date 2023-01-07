@@ -1,0 +1,7 @@
+.myinter:hover{
+    background-color:lavenderblush;
+    transform:scale(1.1);
+}
+.myinter:active{
+    background-color:azure;
+}
